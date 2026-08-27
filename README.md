@@ -20,8 +20,9 @@ Outcome
 
 Companion artifact
 
-Due to contractual agreements and HIPPA regulations. Link attached is populated with synthetic-data version. Same architecture, fake intake text, public repo. 
-https://mvpconciergepracice.lovable.app/
+Due to contractual agreements and HIPAA regulations. Link attached is populated with synthetic-data version. Same architecture, fake intake text, public repo. 
+
+https://mvpconciergepractice.lovable.app
 
 2. Regulatory submission assistant — pharmaceutical client
 
@@ -37,8 +38,9 @@ How it works
 A regulatory affairs team uploads a completed manufacturing dossier — typically 500+ pages of CMC documentation — and the assistant reads it against FDA submission requirements. It returns a gap analysis: what's missing, what's underspecified, and what a reviewer is likely to flag. Every finding cites the specific regulation it derives from, so the team can verify against the source instead of taking the tool's word for it.
 
 Companion artifact
-Due to contractual agreements the link attached is populated with synthetic-data version. Same architecture, fake intake text, public repo. 
-Link to video and explanation: https://www.linkedin.com/posts/amruthakillada_sharing-two-transformative-projects-ive-activity-7403825736802783233-hyp6?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABIRTnAB5MczwhYI8p4izz3iw8hT-xkal4Y
+Due to contractual agreements I cannot share the platform directly. 
+
+Link to video and explanation: https://www.linkedin.com/posts/amruthakillada_sharing-two-transformative-projects-ive-activity-7403825736802783233-hyp6
 
 3. Orbit — MIT Martin Trust Center
 
@@ -57,8 +59,8 @@ Outcome
 13,000+ active users globally within a year of launch, AI-enabled learning embedded in formal MIT curricula and co-curricular programs.
 
 Companion artifact
-Login here to explore Orbit - https://orbit.mit.edu/
-See a video demo - https://www.linkedin.com/posts/amruthakillada_kudos-to-the-team-at-stackai-doug-williams-activity-7195865511639810048-w2Qa?utm_source=share&utm_medium=member_desktop&rcm=ACoAABIRTnAB5MczwhYI8p4izz3iw8hT-xkal4Y
+See a video demo - https://www.linkedin.com/posts/amruthakillada_kudos-to-the-team-at-stackai-doug-williams-activity-7195865511639810048-w2Qa
+Login here to explore Orbit, note the platform is MIT-gated - https://orbit.mit.edu/
 
 4. train4ai
 
